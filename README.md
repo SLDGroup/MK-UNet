@@ -43,10 +43,10 @@ pip install -r requirements.txt
 ### Data preparation:
 
 - **ClinicDB dataset:**
-Download the splited polyp datasets from [Google Drive](https://drive.google.com/drive/folders/1FPJr5f91uUCikxMvkwtZSEnYHemTZq1P?usp=share_link) and move into './data/polyp/' folder.
+Download the splited ClinicDB dataset from [Google Drive](https://drive.google.com/drive/folders/1FPJr5f91uUCikxMvkwtZSEnYHemTZq1P?usp=share_link) and move into './data/polyp/' folder.
 
 - **ColonDB dataset:**
-Download the splited polyp datasets from [Google Drive](https://drive.google.com/drive/folders/1u4_8dMztnEBUaX-w3XfUR3jXLBhpccPA?usp=share_link) and move into './data/polyp/' folder.
+Download the splited ColonDB dataset from [Google Drive](https://drive.google.com/drive/folders/1u4_8dMztnEBUaX-w3XfUR3jXLBhpccPA?usp=share_link) and move into './data/polyp/' folder.
 
 ### Training:
 ```
