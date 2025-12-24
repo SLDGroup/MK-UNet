@@ -17,7 +17,7 @@ Official Pytorch implementation of the paper [MK-UNet: Multi-kernel Lightweight 
 ## Architecture
 
 <p align="center">
-<img src="EMCAD_architecture.jpg" width=100% height=40% 
+<img src="mkunet_architecture.jpg" width=100% height=40% 
 class="center">
 </p>
 
