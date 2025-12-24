@@ -6,6 +6,8 @@ Official Pytorch implementation of the paper [MK-UNet: Multi-kernel Lightweight 
 
 [ARXIV](https://arxiv.org/abs/2509.18493) | [PAPER](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/papers/Rahman_MK-UNet_Multi-kernel_Lightweight_CNN_for_Medical_Image_Segmentation_ICCVW_2025_paper.pdf) | [Code](https://github.com/SLDGroup/MK-UNet)
 
+#### 🔍 **Check out our CVPR 2025 paper! [LoMix](https://github.com/SLDGroup/LoMix)**
+#### 🔍 **Check out our CVPR 2025 paper! [EfficientMedNeXt](https://github.com/SLDGroup/EfficientMedNeXt)** 
 #### 🔍 **Check out our CVPR 2025 paper! [EffiDec3D](https://github.com/SLDGroup/EffiDec3D)**
 #### 🔍 **Check out our CVPR 2024 paper! [EMCAD](https://github.com/SLDGroup/EMCAD)** 
 #### 🔍 **Check out our CVPRW 2024 paper! [PP-SAM](https://github.com/SLDGroup/PP-SAM)** 
