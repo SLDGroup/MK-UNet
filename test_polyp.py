@@ -156,7 +156,7 @@ if __name__ == '__main__':
     
     channels = NET_CONFIGS.get(opt.network, NET_CONFIGS['MK_UNet'])
     model = MK_UNet(num_classes=1, in_channels=3, channels=channels).cuda()
-    model.load_state_dict(torch.load(model_path), strict=False)
+    model.load_state_dict(torch.load(model_path, weights_only=True), strict=False)
     model.eval()
 
     # --- Run Inference ---
